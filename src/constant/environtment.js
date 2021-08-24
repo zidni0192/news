@@ -1,0 +1,1 @@
+export const BASE_URL_IMAGE = 'https://obs.line-scdn.net/'
